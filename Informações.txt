@@ -1,0 +1,7 @@
+Feito com NODEjs (JavaScript), utilizando a biblioteca 'socket.io'
+
+É um chat por terminal. Podem conectar vários usuários.
+Para rodar o server: 'node server' na pasta 'server'
+Para rodar um cliente: 'node client' na pasta 'client
+
+Obs.: Talvez seha preciso rodar um comando 'yarn' ou 'npm' para instalar as dependencias
